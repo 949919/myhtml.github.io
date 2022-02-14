@@ -25,7 +25,7 @@ $email = $_POST["email"];
 
 $gender = $_POST["gender"];
 
-mail ('yk861595@gmail.com','New Form
+mail ('My@html.com','New Form
 
 Submission',"New Form Submission:Name:$name,Gender:
 $gender,Email:$email" );
